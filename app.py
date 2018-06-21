@@ -1,7 +1,3 @@
-import modules.database
-import modules.ui_manager
-
-
 def main():
     print('It worked!')
 
